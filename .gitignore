@@ -1,1 +1,5 @@
 .idea/
+backend/node_module 
+storefront/node_modules
+backend/.env
+storefront/.env
